@@ -1,0 +1,46 @@
+---
+title: Ch 2: Basic UI
+author: Daniel Dulaney
+date: October 2, 2021
+output: html_document
+---
+
+## 2.2.8 Exercises
+  
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+
+## 2.3.5 Exercises
+
+### (1)
+
+
+### (2)
+
+
+### (3)
+
+
+### (4)
+
+
+
+
